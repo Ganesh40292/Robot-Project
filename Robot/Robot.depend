@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1756018725 source:d:\sem5\cg\project\robot\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<GL/glut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+
+1756009066 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1756018724 source:d:\sem5\cg\project\project\robot\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<GL/glut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+
